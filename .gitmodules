@@ -1,0 +1,6 @@
+[submodule "deck.js"]
+	path = deck.js
+	url = https://github.com/imakewebthings/deck.js.git
+[submodule "fontawesome"]
+	path = fontawesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
